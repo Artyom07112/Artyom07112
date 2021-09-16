@@ -12,8 +12,11 @@
 #### You can contact me:
 [<img align="left" alt="Vkontakte" width="35" src="https://cdn-icons-png.flaticon.com/512/3670/3670254.png" />][vkontakte]
 
- 
+<br />
+<br />
 
+#### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
 
 
 
