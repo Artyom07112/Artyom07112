@@ -16,7 +16,7 @@
 <br />
 
 #### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artyom07112&show_icons=true&theme=cobalt)
 
 
 
