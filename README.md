@@ -1,5 +1,5 @@
 ### ⚡Hello my name Artyom⚡
-#### I am a beginner developer. I am interested in cross-platform. At the moment, I am going through training, and also developing myself. You can view all the projects in the repository section.
+#### I am a beginner developer. I am interested in cross-platform. At the moment, I am going through training, and also developing myself. You can view all the projects in the repository section. At the moment I am studying at the College of Business and Law.
 ### My skils:
 <img align="left" alt="csarp" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="cpp" width="30" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
